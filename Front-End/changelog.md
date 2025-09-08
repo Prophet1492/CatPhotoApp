@@ -11,3 +11,9 @@
 
 ### Notes
 - Nothing of major significance done yet, just base files created 
+
+## Version [0.1.1] 2025-08-09
+
+### Added
+- Section added to seperate cat photo from future content
+- <ul> list added with different things cats love
