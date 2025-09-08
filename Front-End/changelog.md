@@ -6,6 +6,8 @@
 - Created styles.css file for styling (currently empty or basic placeholders).
 - Created a script.js file for JavaScript logic (currently empty or basic placeholders).
 - Created changelog.md to keep up with changed
+- Added anchor elements into index.html
+- Added a couple <p> elements into the file
 
 ### Notes
 - Nothing of major significance done yet, just base files created 
